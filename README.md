@@ -1,1 +1,1 @@
-LangChain, when used with GPT-3.5 Turbo, provides a framework to build applications powered by large language models.
+This project demonstrates how to integrate LangChain with OpenAI to build intelligent applications powered by Large Language Models (LLMs). It uses LangChain’s framework for prompt management, chaining, and memory, combined with OpenAI’s API for natural language generation. The goal is to make it easy to create AI-powered tools such as chatbots, text generators, and knowledge assistants. I used 'GPT-3.5-turbo' for making this project. 
